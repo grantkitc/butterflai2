@@ -1,0 +1,1 @@
+I had some trouble getting my AI assistant to generate the handoff. I didn't use the prompt this time either, but I think I will next time. I spent most of the session debugging instead of learning solar physics.
